@@ -9,6 +9,7 @@ public class Main {
         Teacher teacher = new Teacher("Duke Java", 34, "M", "Computer Science", 50000.0);
         CollegeStudent collegeStudent = new CollegeStudent("Ima Frosh", 18, "F", "UCB123", 4.0, 1, "English");
 
+       System.out.println(person.getAge());
 
         //Person [] p = {person, student, teacher, collegeStudent};
         Person []p = new Person[4];

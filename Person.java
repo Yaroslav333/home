@@ -3,9 +3,9 @@
  */
 public class Person {
 
-     String name;
-     int age;
-     String gender;
+    private String name;
+    private int age;
+    private String gender;
 
 
 
