@@ -7,6 +7,7 @@ public class Person {
     private int age;
     private String gender;
     int a;
+    private String foo;
 
 
 
